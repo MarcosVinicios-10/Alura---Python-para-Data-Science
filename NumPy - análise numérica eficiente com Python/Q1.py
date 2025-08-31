@@ -28,3 +28,4 @@ plt.show()
 
 print(np.linalg.norm(diâmetroLaranja-(regressão(PesoLaranja,diâmetroLaranja))))
 print(np.linalg.norm(diâmetroToranja-(regressão(PesoToranja,diâmetroToranja))))
+
